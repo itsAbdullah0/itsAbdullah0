@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Abdullah
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning mutiplayer
+- 🌱 I’m currently learning multiplayer
 - 💞️ I’m looking to collaborate on game development
 
 <!---
